@@ -1,0 +1,14 @@
+.im{
+    padding:100px;
+    margin:100px;
+    display:relative;
+}
+img{
+    display:block;
+}
+.txt{
+    position: absolute;
+    top:200px;
+    color:black;
+    font-size: 30px;
+}
